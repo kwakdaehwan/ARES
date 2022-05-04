@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [ARES_R06_Power_V24.PrjPCB]
+   Generated File[Bill of Materials.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 7:06:13 On 2021-04-07

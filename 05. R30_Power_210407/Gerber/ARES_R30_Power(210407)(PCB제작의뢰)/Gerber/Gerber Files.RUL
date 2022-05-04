@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: D:\0작업진행\1하이젠모터\ARES_R30_Power\1-PCB\ARES_R30_Power.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_power1|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_brk|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_fg|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_motor1|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_power2|Scope=Board|Minimum=25.59
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=-19.69
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_U7|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_Keepout|Scope=Board|Minimum=39.37

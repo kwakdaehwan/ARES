@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=00.ChangeLog.SchDoc|SheetNumber=0
+Record=NoMainPathDocument|SourceDocument=00.ChangeLog.SchDoc|FileName=01.Connector.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=00.ChangeLog.SchDoc|FileName=02.DC-DCConverter.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=00.ChangeLog.SchDoc|FileName=03.Sensing.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=00.ChangeLog.SchDoc|FileName=04.MOSFET.SchDoc|SheetNumber=4
